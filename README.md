@@ -3,8 +3,8 @@
 ## Jupyter bilježnice za laboratorijske vježbe
 - [Pogreške u numeričkom računanju- 1.dio](https://anazga.github.io/NumMat_Lab/Labos01-pogreske.html)
 - [Pogreške u numeričkom računanju- 2.dio](https://anazga.github.io/NumMat_Lab/Labos02-fp-brojevi.html)
-- [Linearni sustavi-LU fatorizacija, Thomasov algoritam](https://anazga.github.io/NumMat_Lab/Labos03-LU, Thomas.html)
-- [Linearni sustavi-PLU fatorizacija, faktorizacija Choleskog](https://anazga.github.io/NumMat_Lab/Labos04-PLU, Cholesky.html)
+- [Lineanri sustavi- 1.dio](https://anazga.github.io/NumMat_Lab/Labos03-LU,Thomas.html)
+- [Linearni sustavi-PLU fatorizacija, faktorizacija Choleskog](https://anazga.github.io/NumMat_Lab/Labos04-PLU,Cholesky.html)
 - [Linearni sustavi- Analiza pogreške rješenja](https://anazga.github.io/NumMat_Lab/Labos05-Analiza_pogreske.html)
 - [Interpolacija-uvod](https://anazga.github.io/NumMat_Lab/Labos06-interpolacija-uvod.html)
 - [Interpolacija-Newtonov interpolacijski polinom](https://anazga.github.io/NumMat_2020/Labos07-Newtonov_polinom.html)
