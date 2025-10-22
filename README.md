@@ -1,4 +1,4 @@
-# Numerical mathematics
+# Numerička matematika - Numerical mathematics
 
 ## Jupyter bilježnice za laboratorijske vježbe
 - [Pogreške u numeričkom računanju - 1.dio](https://anazga.github.io/NumMat_Lab/Labos01.html)
