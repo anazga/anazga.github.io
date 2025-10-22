@@ -1,16 +1,16 @@
 # Numerical mathematics
 
 ## Jupyter bilježnice za laboratorijske vježbe
-- [Pogreške u numeričkom računanju- 1.dio](https://anazga.github.io/NumMat_Lab/Labos01-pogreske.html)
-- [Pogreške u numeričkom računanju- 2.dio](https://anazga.github.io/NumMat_Lab/Labos02-fp-brojevi.html)
-- [Lineanri sustavi- 1.dio](https://anazga.github.io/NumMat_Lab/Labos03-LU,Thomas.html)
-- [Linearni sustavi-PLU fatorizacija, faktorizacija Choleskog](https://anazga.github.io/NumMat_Lab/Labos04-PLU,Cholesky.html)
-- [Linearni sustavi- Analiza pogreške rješenja](https://anazga.github.io/NumMat_Lab/Labos05-Analiza_pogreske.html)
-- [Interpolacija-uvod](https://anazga.github.io/NumMat_Lab/Labos06-interpolacija-uvod.html)
-- [Interpolacija-Newtonov interpolacijski polinom](https://anazga.github.io/NumMat_2020/Labos07-Newtonov_polinom.html)
-- [Interpolacija-splajnovi](https://anazga.github.io/NumMat_Lab/Labos08-splajnovi.html)
-- [Numerička integracija](https://anazga.github.io/NumMat_Lab/Labos09-numerička_integracija.html)
-- [Metoda najmanjih kvadrata, QR i SVD faktorizacija](https://anazga.github.io/NumMat_Lab/Labos10-MNK.html)
+- [Pogreške u numeričkom računanju- 1.dio](https://anazga.github.io/NumMat_Lab/Labos01.html)
+- [Pogreške u numeričkom računanju- 2.dio](https://anazga.github.io/NumMat_Lab/Labos02.html)
+- [Lineanri sustavi- 1.dio](https://anazga.github.io/NumMat_Lab/Labos03.html)
+- [Linearni sustavi-PLU fatorizacija, faktorizacija Choleskog](https://anazga.github.io/NumMat_Lab/Labos04.html)
+- [Linearni sustavi- Analiza pogreške rješenja](https://anazga.github.io/NumMat_Lab/Labos05.html)
+- [Interpolacija-uvod](https://anazga.github.io/NumMat_Lab/Labos06.html)
+- [Interpolacija-Newtonov interpolacijski polinom](https://anazga.github.io/NumMat_2020/Labos07.html)
+- [Interpolacija-splajnovi](https://anazga.github.io/NumMat_Lab/Labos08.html)
+- [Numerička integracija](https://anazga.github.io/NumMat_Lab/Labos09.html)
+- [Metoda najmanjih kvadrata, QR i SVD faktorizacija](https://anazga.github.io/NumMat_Lab/Labos10.html)
 ## Predavanja iz Numeričke matematike na hrvatskom (2020/2021)
 
 Ovdje su poveznice na bilježnice.
