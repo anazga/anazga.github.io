@@ -1,14 +1,14 @@
 # Numerical mathematics
 
 ## Jupyter bilježnice za laboratorijske vježbe
-- [Pogreške u numeričkom računanju- 1.dio](https://anazga.github.io/NumMat_Lab/Labos01.html)
-- [Pogreške u numeričkom računanju- 2.dio](https://anazga.github.io/NumMat_Lab/Labos02.html)
-- [Linearni sustavi- 1.dio](https://anazga.github.io/NumMat_Lab/Labos03.html)
-- [Linearni sustavi-PLU fatorizacija, faktorizacija Choleskog](https://anazga.github.io/NumMat_Lab/Labos04.html)
-- [Linearni sustavi- Analiza pogreške rješenja](https://anazga.github.io/NumMat_Lab/Labos05.html)
-- [Interpolacija-uvod](https://anazga.github.io/NumMat_Lab/Labos06.html)
-- [Interpolacija-Newtonov interpolacijski polinom](https://anazga.github.io/NumMat_Lab/Labos07.html)
-- [Interpolacija-splajnovi](https://anazga.github.io/NumMat_Lab/Labos08.html)
+- [Pogreške u numeričkom računanju - 1.dio](https://anazga.github.io/NumMat_Lab/Labos01.html)
+- [Pogreške u numeričkom računanju - 2.dio](https://anazga.github.io/NumMat_Lab/Labos02.html)
+- [Linearni sustavi - 1.dio](https://anazga.github.io/NumMat_Lab/Labos03.html)
+- [Linearni sustavi - PLU fatorizacija, faktorizacija Choleskog](https://anazga.github.io/NumMat_Lab/Labos04.html)
+- [Linearni sustavi - Analiza pogreške rješenja](https://anazga.github.io/NumMat_Lab/Labos05.html)
+- [Interpolacija - Uvod](https://anazga.github.io/NumMat_Lab/Labos06.html)
+- [Interpolacija - Newtonov interpolacijski polinom](https://anazga.github.io/NumMat_Lab/Labos07.html)
+- [Interpolacija - Splajnovi](https://anazga.github.io/NumMat_Lab/Labos08.html)
 - [Numerička integracija](https://anazga.github.io/NumMat_Lab/Labos09.html)
 - [Metoda najmanjih kvadrata, QR i SVD faktorizacija](https://anazga.github.io/NumMat_Lab/Labos10.html)
 ## Predavanja iz Numeričke matematike na hrvatskom (2020/2021)
