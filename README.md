@@ -7,7 +7,7 @@
 - [Linearni sustavi-PLU fatorizacija, faktorizacija Choleskog](https://anazga.github.io/NumMat_Lab/Labos04.html)
 - [Linearni sustavi- Analiza pogreške rješenja](https://anazga.github.io/NumMat_Lab/Labos05.html)
 - [Interpolacija-uvod](https://anazga.github.io/NumMat_Lab/Labos06.html)
-- [Interpolacija-Newtonov interpolacijski polinom](https://anazga.github.io/NumMat_2020/Labos07.html)
+- [Interpolacija-Newtonov interpolacijski polinom](https://anazga.github.io/NumMat_Lab/Labos07.html)
 - [Interpolacija-splajnovi](https://anazga.github.io/NumMat_Lab/Labos08.html)
 - [Numerička integracija](https://anazga.github.io/NumMat_Lab/Labos09.html)
 - [Metoda najmanjih kvadrata, QR i SVD faktorizacija](https://anazga.github.io/NumMat_Lab/Labos10.html)
