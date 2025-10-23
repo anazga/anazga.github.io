@@ -36,11 +36,11 @@ Ovdje su poveznice na bilježnice.
  - [Predavanje 18](https://anazga.github.io/NumMat_2020/Predavanje_18.html)
  - [Predavanje 19](https://anazga.github.io/NumMat_2020/Predavanje_19.html)
  - [Predavanje 20](https://anazga.github.io/NumMat_2020/Predavanje_20.html)
- - [Predavanje 21](https://anazga.github.io/NumMat_2020/Predavanje_21.html)
+ <!--- - [Predavanje 21](https://anazga.github.io/NumMat_2020/Predavanje_21.html)
  - [Predavanje 22](https://anazga.github.io/NumMat_2020/Predavanje_22.html)
  - [Predavanje 23](https://anazga.github.io/NumMat_2020/Predavanje_23.html)
  - [Predavanje 24](https://anazga.github.io/NumMat_2020/Predavanje_24.html)
- - [Predavanje 25](https://anazga.github.io/NumMat_2020/Predavanje_25.html)
+ - [Predavanje 25](https://anazga.github.io/NumMat_2020/Predavanje_25.html) -->
 
 ## Numerical Mathematics Classes in English
 
