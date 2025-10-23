@@ -36,6 +36,8 @@ Ovdje su poveznice na bilježnice.
  - [Predavanje 18](https://anazga.github.io/NumMat_2020/Predavanje_18.html)
  - [Predavanje 19](https://anazga.github.io/NumMat_2020/Predavanje_19.html)
  - [Predavanje 20](https://anazga.github.io/NumMat_2020/Predavanje_20.html)
+
+ Predavanja iz numeričke optimizacije su se sadržajno izmijenila u godini 2021/2022, tako da nisu objavljena ovdje. Za praćenje predavanja koristite skriptu na stranici kolegija.
  <!--- - [Predavanje 21](https://anazga.github.io/NumMat_2020/Predavanje_21.html)
  - [Predavanje 22](https://anazga.github.io/NumMat_2020/Predavanje_22.html)
  - [Predavanje 23](https://anazga.github.io/NumMat_2020/Predavanje_23.html)
