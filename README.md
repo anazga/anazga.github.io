@@ -13,7 +13,7 @@
 - [Metoda najmanjih kvadrata, QR i SVD faktorizacija](https://anazga.github.io/NumMat_Lab/Labos10.html)
 ## Predavanja iz Numeričke matematike na hrvatskom (2020/2021)
 
-Ovdje su poveznice na bilježnice.
+Ovdje su poveznice na bilježnice. Dio prezentacija preuzet je sa kolegija Numerička matematika (FER2) (autori prezetacija na tom kolegiju su: Josipa Pina milišić i Ana Žgaljić Keko)
 
  - [Predavanje 01](https://anazga.github.io/NumMat_2020/Predavanje_01.html)
  - [Predavanje 01](https://anazga.github.io/NumMat_2020/Predavanje_01.html)
